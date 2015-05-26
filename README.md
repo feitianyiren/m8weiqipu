@@ -7,7 +7,7 @@ M8围棋谱 v0.8.8
 
 基本功能：打开并解析SGF棋谱，单步向前向后，落子音效，自动提子，显示棋局信息和解说，支持自定义皮肤。
 
-作者：liigo，http://blog.csdn.net/liigo，http://blog.csdn.net/liigo/article/details/4700244
+作者：liigo, http://blog.csdn.net/liigo, http://blog.csdn.net/liigo/article/details/4700244
 
 此软件是 Google Code 上的开源软件，项目主页为：http://code.google.com/p/m8weiqipu/
 
