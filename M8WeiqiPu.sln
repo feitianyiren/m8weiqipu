@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M8WeiqiPu", "M8WeiqiPu.vcproj", "{6FED8537-24B5-4366-A39E-03440E62152C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testSgfParser", "test\testSgfParser.vcproj", "{3489AE1E-C58D-4421-BDCD-1481F4F7D386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|M8SDK (ARMV4I) = Debug|M8SDK (ARMV4I)
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|M8SDK (ARMV4I) = Release|M8SDK (ARMV4I)
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|M8SDK (ARMV4I).ActiveCfg = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|M8SDK (ARMV4I).Build.0 = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|M8SDK (ARMV4I).Deploy.0 = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|Mixed Platforms.ActiveCfg = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|Mixed Platforms.Build.0 = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|Mixed Platforms.Deploy.0 = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Debug|Win32.ActiveCfg = Debug|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|M8SDK (ARMV4I).ActiveCfg = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|M8SDK (ARMV4I).Build.0 = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|M8SDK (ARMV4I).Deploy.0 = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|Mixed Platforms.ActiveCfg = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|Mixed Platforms.Build.0 = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|Mixed Platforms.Deploy.0 = Release|M8SDK (ARMV4I)
+		{6FED8537-24B5-4366-A39E-03440E62152C}.Release|Win32.ActiveCfg = Release|M8SDK (ARMV4I)
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Debug|M8SDK (ARMV4I).ActiveCfg = Debug|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Debug|Win32.Build.0 = Debug|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Release|M8SDK (ARMV4I).ActiveCfg = Release|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Release|Win32.ActiveCfg = Release|Win32
+		{3489AE1E-C58D-4421-BDCD-1481F4F7D386}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
